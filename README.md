@@ -1,3 +1,3 @@
-# stranka_ukol_1
+# Stranka_ukol_1
 První úkol ve školním roce
 by david hrdina
